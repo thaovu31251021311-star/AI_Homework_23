@@ -1,0 +1,9 @@
+region_id,name,lat,lon,type
+D1,District 1,10.775,106.7,urban
+D1,District 1,10.78,106.705,urban
+D1,District 1,10.77,106.71,urban
+D1,District 1,10.765,106.695,urban
+D2,District 2,10.79,106.72,urban
+D2,District 2,10.795,106.715,urban
+D2,District 2,10.785,106.73,urban
+D2,District 2,10.78,106.725,urban

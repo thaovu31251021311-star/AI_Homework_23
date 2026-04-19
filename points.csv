@@ -1,0 +1,11 @@
+id,name,lat,lon,type,value,region
+P1,Ben Thanh Market,10.7758,106.7009,poi,100,D1
+P2,Saigon Centre,10.7735,106.701,poi,90,D1
+P3,Customer A,10.762,106.682,customer,50,D1
+P4,Customer B,10.751,106.674,customer,40,D1
+P5,Customer C,10.768,106.708,customer,70,D2
+P6,Warehouse A,10.7769,106.7009,warehouse,200,D1
+P7,Warehouse B,10.79,106.71,warehouse,180,D2
+P8,Hospital District 1,10.779,106.704,poi,120,D1
+P9,School A,10.767,106.695,poi,60,D1
+P10,Shop Center,10.772,106.712,shop,85,D2

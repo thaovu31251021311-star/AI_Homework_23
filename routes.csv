@@ -1,0 +1,11 @@
+route_id,from_id,to_id,distance_km,duration_min,type
+R1,P6,P3,2.6,8,delivery
+R2,P6,P4,4.1,12,delivery
+R3,P6,P5,1.3,5,delivery
+R4,P7,P5,2,7,delivery
+R5,P7,P10,1.8,6,delivery
+R6,P6,P1,1.2,4,transport
+R7,P6,P2,1,3,transport
+R8,P3,P4,2.2,7,customer_link
+R9,P2,P1,0.5,2,walk
+R10,P9,P8,1.4,5,service

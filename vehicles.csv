@@ -1,0 +1,5 @@
+vehicle_id,start_point,end_point,speed,status
+V1,P6,P3,0.05,delivering
+V2,P7,P5,0.04,delivering
+V3,P6,P4,0.03,delivering
+V4,P7,P10,0.02,delivering
